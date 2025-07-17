@@ -1,0 +1,27 @@
+.page {
+  padding: 2rem;
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #f9f9f9;
+  min-height: 100vh;
+}
+
+.page button {
+  background-color: #0070f3;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-top: 1rem;
+  font-size: 1rem;
+}
+
+.page button:hover {
+  background-color: #0059c1;
+}
+
+.page p {
+  font-size: 18px;
+  color: #333;
+}
